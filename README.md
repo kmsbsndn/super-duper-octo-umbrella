@@ -45,4 +45,21 @@ command extraction (CDM+manifest) > batch download > manual scene segmentation >
   * resize to 720p
   * burn subtitles (via `force_style`)
   * apply rgba watermark overlay
-  * re-encode `libx264` + AAC into a finalized `.mp4` in `/done` 
+  * re-encode `libx264` + AAC into a finalized `.mp4` in `/done`
+ 
+  # NOTICE
+  THIS TOOLKIT DOES **NOT** PROVIDE ACCESS TO MEDIA, KEYS, OR DECRYPTION MATERIAL. IT ONLY AUTOMATES THE LOCAL HANDLING OF CONTENT THE USER IS ALREADY AUTHORIZED TO VIEW.  THIS TOOLKIT ONLY **ORCHESTRATES** THIRD-PARTY TOOLS.
+
+super-duper-octo-umbrella does not:
+• circumvent access to copyrighted content
+• provide decryption keys or DRM components
+• distribute or facilitate sharing of media files
+
+This project only automates handling of media
+that users are already lawfully authorized to view.
+
+All copyrights remain with their respective owners.
+No responsibility is assumed for misuse or redistribution.
+
+**Users are fully responsible for compliance with
+content licenses, DRM terms, and applicable laws.**
